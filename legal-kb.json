@@ -1,0 +1,959 @@
+{
+  "version": "1.0",
+  "generated": "2026-04-06",
+  "total_chunks": 55,
+  "sources": [
+    "Section 504 & Regulations (34 CFR Part 104)",
+    "IDEA Regulations (34 CFR Part 300)",
+    "Texas Education Code Chapter 29 & TAC Title 19",
+    "IDEA Statute (20 USC 1400-1482)"
+  ],
+  "chunks": [
+    {
+      "text": "# IDEA Regulations - 34 CFR Part 300\n# Key Regulatory Provisions for IEP Advocacy\n",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "",
+      "citation": "",
+      "keywords": [
+        "assistive_technology",
+        "iep_content"
+      ],
+      "id": "chunk_0000"
+    },
+    {
+      "text": "## Subpart A - General\n\n### 34 CFR 300.8 - Child with a Disability\n(a) General. Child with a disability means a child evaluated in accordance with 300.304 through 300.311 as having an intellectual disability, a hearing impairment (including deafness), a speech or language impairment, a visual impairment (including blindness), a serious emotional disturbance, an orthopedic impairment, autism, traumatic brain injury, an other health impairment, a specific learning disability, deaf-blindness, or multiple disabilities, and who, by reason thereof, needs special education and related services.\n\n### 34 CFR 300.17 - Free Appropriate Public Education (FAPE)\nFAPE means special education and related services that:\n(a) Are provided at public expense, under public supervision and direction, and without charge;\n(b) Meet the standards of the SEA, including the requirements of this part;\n(c) Include an appropriate preschool, elementary school, or secondary school education in the State involved; and\n(d) Are provided in conformity with an IEP that meets the requirements of 300.320 through 300.324.",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart A - General",
+      "citation": "34 CFR 300.8",
+      "keywords": [
+        "fape",
+        "iep_content",
+        "related_services",
+        "eligibility",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "iee",
+        "due_process"
+      ],
+      "id": "chunk_0001"
+    },
+    {
+      "text": "an appropriate preschool, elementary school, or secondary school education in the State involved; and\n(d) Are provided in conformity with an IEP that meets the requirements of 300.320 through 300.324.\n\n### 34 CFR 300.34 - Related Services\n(a) Related services means transportation and such developmental, corrective, and other supportive services as are required to assist a child with a disability to benefit from special education.\n(c) Individual related services terms defined:\n(1) Audiology\n(2) Counseling services\n(3) Early identification and assessment\n(4) Interpreting services\n(5) Medical services (for diagnostic and evaluation purposes only)\n(6) Occupational therapy\n(7) Orientation and mobility services\n(8) Parent counseling and training\n(9) Physical therapy\n(10) Psychological services\n(11) Recreation\n(12) Rehabilitation counseling services\n(13) School health/nurse services\n(14) Social work services\n(15) Speech-language pathology services\n(16) Transportation",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart A - General",
+      "citation": "34 CFR 300.34",
+      "keywords": [
+        "iep_content",
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "eligibility",
+        "assistive_technology"
+      ],
+      "id": "chunk_0002"
+    },
+    {
+      "text": "## Subpart B - State Eligibility\n\n### 34 CFR 300.101 - FAPE Requirements\n(a) A free appropriate public education must be available to all children residing in the State between the ages of 3 and 21, inclusive, including children with disabilities who have been suspended or expelled.\n\n### 34 CFR 300.106 - Extended School Year Services (ESY)\n(a) Each public agency must ensure that extended school year services are available as necessary to provide FAPE.\n(b) Extended school year services must be provided only if a child's IEP Team determines, on an individual basis, that the services are necessary for the provision of FAPE to the child.\n(c) A public agency may not limit extended school year services to particular categories of disability or unilaterally limit the type, amount, or duration of those services.\n\n### 34 CFR 300.114 - LRE Requirements\n(a)(2) Each public agency must ensure that:\n(i) To the maximum extent appropriate, children with disabilities are educated with children who are nondisabled; and\n(ii) Special classes, separate schooling, or other removal of children with disabilities from the regular educational environment occurs only if the nature or severity of the disability is such that education in regular classes with the use of supplementary aids and services cannot be achieved satisfactorily.",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart B - State Eligibility",
+      "citation": "34 CFR 300.101",
+      "keywords": [
+        "discipline",
+        "esy",
+        "fape",
+        "iep_content",
+        "related_services",
+        "eligibility",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "lre",
+        "ard_committee"
+      ],
+      "id": "chunk_0003"
+    },
+    {
+      "text": "ational environment occurs only if the nature or severity of the disability is such that education in regular classes with the use of supplementary aids and services cannot be achieved satisfactorily.\n\n### 34 CFR 300.116 - Placements\nIn determining the educational placement of a child with a disability, each public agency must ensure that:\n(a) The placement decision is made by a group of persons, including the parents;\n(b) The placement decision is made in conformity with the LRE provisions;\n(c) The child's placement is determined at least annually, is based on the child's IEP, and is as close as possible to the child's home;\n(d) Unless the IEP requires some other arrangement, the child is educated in the school the child would attend if nondisabled;\n(e) In selecting the LRE, consideration is given to any potential harmful effect on the child or the quality of services.",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart B - State Eligibility",
+      "citation": "34 CFR 300.116",
+      "keywords": [
+        "iep_content",
+        "parent_rights",
+        "related_services",
+        "eligibility",
+        "accommodations",
+        "assistive_technology",
+        "lre"
+      ],
+      "id": "chunk_0004"
+    },
+    {
+      "text": "## Subpart C - LEA Eligibility\n\n### 34 CFR 300.207 - Personnel Qualifications\nSpecial education and related services personnel must meet SEA-approved or SEA-recognized certification, licensing, registration, or other comparable requirements that apply to the professional discipline in which those personnel are providing special education or related services.\n",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart C - LEA Eligibility",
+      "citation": "34 CFR 300.207",
+      "keywords": [
+        "related_services",
+        "eligibility",
+        "assistive_technology",
+        "discipline"
+      ],
+      "id": "chunk_0005"
+    },
+    {
+      "text": "## Subpart D - Evaluations, Eligibility, IEPs, Placements\n\n### 34 CFR 300.300 - Parental Consent\n(a) Parental consent for initial evaluation.\n(1) The public agency must obtain informed consent from the parent before conducting an initial evaluation.\n(b) Parental consent for services.\n(1) A public agency must obtain informed consent from the parent before the initial provision of special education and related services.\n\n### 34 CFR 300.301 - Initial Evaluations\n(b) Either a parent of a child or a public agency may initiate a request for an initial evaluation to determine if the child is a child with a disability.\n(c) The initial evaluation must be conducted within 60 days of receiving parental consent for the evaluation (or within the State-established timeframe).\n\n### 34 CFR 300.303 - Reevaluations\n(a) A public agency must ensure that a reevaluation of each child with a disability is conducted if the agency determines that the educational or related services needs, including improved academic achievement and functional performance of the child, warrant a reevaluation, or if the child's parent or teacher requests a reevaluation.\n(b) A reevaluation may not occur more than once a year, unless the parent and agency agree otherwise; and must occur at least once every 3 years, unless the parent and agency agree it is unnecessary.",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart D - Evaluations, Eligibility, IEPs, Placements",
+      "citation": "34 CFR 300.300",
+      "keywords": [
+        "iep_content",
+        "parent_rights",
+        "evaluation",
+        "eligibility",
+        "related_services",
+        "assistive_technology",
+        "texas",
+        "procedural"
+      ],
+      "id": "chunk_0006"
+    },
+    {
+      "text": "(b) A reevaluation may not occur more than once a year, unless the parent and agency agree otherwise; and must occur at least once every 3 years, unless the parent and agency agree it is unnecessary.\n\n### 34 CFR 300.304 - Evaluation Procedures\n(b) Each public agency must ensure that:\n(1) Assessments and other evaluation materials used to assess a child are selected and administered so as not to be discriminatory on a racial or cultural basis;\n(2) Are provided and administered in the child's native language or other mode of communication and in the form most likely to yield accurate information;\n(3) Are used for the purposes for which the assessments or measures are valid and reliable;\n(4) Are administered by trained and knowledgeable personnel;\n(5) Are administered in accordance with any instructions provided by the producer of the assessments.\n(c) Each public agency must ensure that:\n(1) The child is assessed in all areas related to the suspected disability;\n(4) The child is assessed with sufficient comprehensiveness to identify all of the child's special education and related services needs;\n(6) In evaluating each child with a disability, the evaluation is sufficiently comprehensive to identify all of the child's special education and related services needs, whether or not commonly linked to the disability category.",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart D - Evaluations, Eligibility, IEPs, Placements",
+      "citation": "34 CFR 300.304",
+      "keywords": [
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "eligibility",
+        "assistive_technology"
+      ],
+      "id": "chunk_0007"
+    },
+    {
+      "text": "with a disability, the evaluation is sufficiently comprehensive to identify all of the child's special education and related services needs, whether or not commonly linked to the disability category.\n\n### 34 CFR 300.320 - Definition of IEP\n(a) The IEP for each child with a disability must include:\n(1) A statement of the child's present levels of academic achievement and functional performance, including how the child's disability affects the child's involvement and progress in the general education curriculum.\n(2) A statement of measurable annual goals, including academic and functional goals designed to:\n(i) Meet the child's needs that result from the child's disability to enable the child to be involved in and make progress in the general education curriculum; and\n(ii) Meet each of the child's other educational needs that result from the child's disability.\n(3) A description of how the child's progress toward meeting the annual goals will be measured and when periodic reports on the progress the child is making toward meeting the annual goals will be provided.\n(4) A statement of the special education and related services and supplementary aids and services, based on peer-reviewed research to the extent practicable, to be provided to the child.\n(5) An explanation of the extent, if any, to which the child will not participate with nondisabled children in the regular class.\n(6) A statement of any individual appropriate accommodations necessary to measure academic achievement",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart D - Evaluations, Eligibility, IEPs, Placements",
+      "citation": "34 CFR 300.320",
+      "keywords": [
+        "section_504",
+        "iep_content",
+        "related_services",
+        "evaluation",
+        "eligibility",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "ard_committee"
+      ],
+      "id": "chunk_0008"
+    },
+    {
+      "text": "if any, to which the child will not participate with nondisabled children in the regular class.\n(6) A statement of any individual appropriate accommodations necessary to measure academic achievement and functional performance on State and districtwide assessments. If the IEP Team determines the child must take an alternate assessment, a statement of why the child cannot participate in the regular assessment and why the alternate assessment is appropriate.\n(7) The projected date for the beginning of the services and modifications, and the anticipated frequency, location, and duration of those services and modifications.\n\n### 34 CFR 300.321 - IEP Team\n(a) The public agency must ensure that the IEP Team includes:\n(1) The parents of the child;\n(2) Not less than one regular education teacher of the child;\n(3) Not less than one special education teacher of the child;\n(4) A representative of the public agency;\n(5) An individual who can interpret the instructional implications of evaluation results;\n(6) At the discretion of the parent or agency, other individuals who have knowledge or special expertise regarding the child;\n(7) Whenever appropriate, the child with a disability.",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart D - Evaluations, Eligibility, IEPs, Placements",
+      "citation": "34 CFR 300.321",
+      "keywords": [
+        "section_504",
+        "iep_content",
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "eligibility",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "lre",
+        "ard_committee"
+      ],
+      "id": "chunk_0009"
+    },
+    {
+      "text": "evaluation results;\n(6) At the discretion of the parent or agency, other individuals who have knowledge or special expertise regarding the child;\n(7) Whenever appropriate, the child with a disability.\n\n### 34 CFR 300.322 - Parent Participation\n(a) Each public agency must take steps to ensure that one or both of the parents of a child with a disability are present at each IEP Team meeting or are afforded the opportunity to participate, including:\n(1) Notifying parents of the meeting early enough to ensure that they will have an opportunity to attend; and\n(2) Scheduling the meeting at a mutually agreed on time and place.\n(d) The public agency must give the parent a copy of the child's IEP at no cost to the parent.\n\n### 34 CFR 300.323 - When IEPs Must Be in Effect\n(a) At the beginning of each school year, each public agency must have in effect, for each child with a disability within its jurisdiction, an IEP.\n(c) Each public agency must ensure that:\n(1) The child's IEP is accessible to each regular education teacher, special education teacher, related service provider, and other service provider who is responsible for its implementation; and\n(2) Each teacher and provider is informed of his or her specific responsibilities related to implementing the child's IEP and the specific accommodations, modifications, and supports that must be provided for the child in accordance with the IEP.",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart D - Evaluations, Eligibility, IEPs, Placements",
+      "citation": "34 CFR 300.322",
+      "keywords": [
+        "section_504",
+        "iep_content",
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "eligibility",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "lre",
+        "ard_committee"
+      ],
+      "id": "chunk_0010"
+    },
+    {
+      "text": "is or her specific responsibilities related to implementing the child's IEP and the specific accommodations, modifications, and supports that must be provided for the child in accordance with the IEP.\n\n### 34 CFR 300.324 - Development, Review, and Revision of IEP\n(a)(2) Consideration of special factors. The IEP Team must:\n(i) In the case of a child whose behavior impedes the child's learning or that of others, consider the use of positive behavioral interventions and supports, and other strategies, to address that behavior;\n(ii) In the case of a child with limited English proficiency, consider the language needs of the child;\n(iii) In the case of a child who is blind or visually impaired, provide for instruction in Braille;\n(iv) Consider the communication needs of the child;\n(v) Consider whether the child needs assistive technology devices and services.\n(b) Review and revision of IEPs:\n(1) Each public agency must ensure that the IEP Team:\n(i) Reviews the child's IEP periodically, but not less than annually, to determine whether the annual goals for the child are being achieved; and\n(ii) Revises the IEP, as appropriate, to address any lack of expected progress toward the annual goals and in the general education curriculum; the results of any reevaluation; information about the child provided to, or by, the parents; the child's anticipated needs; or other matters.",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart D - Evaluations, Eligibility, IEPs, Placements",
+      "citation": "34 CFR 300.324",
+      "keywords": [
+        "discipline",
+        "behavior",
+        "section_504",
+        "iep_content",
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "ard_committee"
+      ],
+      "id": "chunk_0011"
+    },
+    {
+      "text": "## Subpart E - Procedural Safeguards\n\n### 34 CFR 300.501 - Opportunity to Examine Records; Parent Participation\n(a) The parents of a child with a disability must be afforded an opportunity to inspect and review all education records with respect to the identification, evaluation, and educational placement of the child, and the provision of FAPE to the child.\n(b) Each public agency must provide notice and an opportunity for the parents to participate in meetings with respect to the identification, evaluation, and educational placement of the child, and the provision of FAPE to the child.\n(c) Parents must be part of the group that makes decisions on the educational placement of the child.\n\n### 34 CFR 300.502 - Independent Educational Evaluation (IEE)\n(a)(1) The parents of a child with a disability have the right to obtain an independent educational evaluation of the child.\n(b)(1) A parent has the right to an IEE at public expense if the parent disagrees with an evaluation obtained by the public agency.\n(b)(2) If a parent requests an IEE at public expense, the public agency must, without unnecessary delay, either:\n(i) File a due process complaint to request a hearing to show that its evaluation is appropriate; or\n(ii) Ensure that an IEE is provided at public expense.\n(b)(3) If the public agency files a due process complaint and the final decision is that the agency's evaluation is appropriate, the parent still has the right to an IEE, but not at public expense.\n(c) If a parent o",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart E - Procedural Safeguards",
+      "citation": "34 CFR 300.501",
+      "keywords": [
+        "fape",
+        "iee",
+        "parent_rights",
+        "evaluation",
+        "eligibility",
+        "related_services",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "procedural",
+        "due_process"
+      ],
+      "id": "chunk_0012"
+    },
+    {
+      "text": "ublic agency files a due process complaint and the final decision is that the agency's evaluation is appropriate, the parent still has the right to an IEE, but not at public expense.\n(c) If a parent obtains an IEE at public expense or shares with the public agency an evaluation obtained at private expense, the results of the evaluation must be considered by the public agency in any decision made with respect to the provision of FAPE to the child, and may be presented by any party as evidence at a due process hearing.\n\n### 34 CFR 300.503 - Prior Written Notice (PWN)\n(a) Written notice must be given to the parents a reasonable time before the public agency:\n(1) Proposes to initiate or change the identification, evaluation, or educational placement of the child or the provision of FAPE; or\n(2) Refuses to initiate or change the identification, evaluation, or educational placement of the child or the provision of FAPE.\n(b) The notice must include:\n(1) A description of the action proposed or refused;\n(2) An explanation of why the agency proposes or refuses the action;\n(3) A description of each evaluation procedure, assessment, record, or report used as a basis;\n(4) A statement of procedural safeguards protections;\n(5) Sources for parents to contact for assistance;\n(6) A description of other options the IEP Team considered and why they were rejected;\n(7) A description of other relevant factors.\n(c) The notice must be written in language understandable to the general public and in th",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart E - Procedural Safeguards",
+      "citation": "34 CFR 300.503",
+      "keywords": [
+        "fape",
+        "iep_content",
+        "iee",
+        "parent_rights",
+        "evaluation",
+        "related_services",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "procedural",
+        "due_process"
+      ],
+      "id": "chunk_0013"
+    },
+    {
+      "text": "other options the IEP Team considered and why they were rejected;\n(7) A description of other relevant factors.\n(c) The notice must be written in language understandable to the general public and in the native language of the parent.\n\n### 34 CFR 300.504 - Procedural Safeguards Notice\nA copy of the procedural safeguards available to the parents must be given to the parents only one time a school year, except that a copy also must be given upon:\n(1) Initial referral or parent request for evaluation;\n(2) Receipt of the first State complaint or first due process complaint in a school year;\n(3) The date of decision to make a removal that constitutes a change of placement (discipline); and\n(4) Upon request by a parent.\n\n### 34 CFR 300.530 - Authority of School Personnel (Discipline)\n(a) School personnel may remove a child with a disability who violates a code of student conduct from the child's current placement to an appropriate interim alternative educational setting, another setting, or suspension, for not more than 10 consecutive school days.\n(d) A child with a disability who is removed from the current placement must:\n(1) Continue to receive educational services so as to enable the child to continue to participate in the general education curriculum and to progress toward meeting the IEP goals; and\n(2) Receive, as appropriate, a functional behavioral assessment, and behavioral intervention services and modifications, that are designed to address the behavior violation so that i",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart E - Procedural Safeguards",
+      "citation": "34 CFR 300.504",
+      "keywords": [
+        "discipline",
+        "behavior",
+        "iep_content",
+        "parent_rights",
+        "evaluation",
+        "eligibility",
+        "related_services",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "procedural",
+        "due_process"
+      ],
+      "id": "chunk_0014"
+    },
+    {
+      "text": "he IEP goals; and\n(2) Receive, as appropriate, a functional behavioral assessment, and behavioral intervention services and modifications, that are designed to address the behavior violation so that it does not recur.\n(e) Manifestation determination. Within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the LEA, the parent, and relevant members of the child's IEP Team must determine whether the conduct was:\n(1) Caused by, or had a direct and substantial relationship to, the child's disability; or\n(2) The direct result of the LEA's failure to implement the IEP.\n(f) If the LEA, the parent, and relevant members of the IEP Team determine that the conduct was a manifestation of the child's disability, the IEP Team must:\n(1) Either conduct a functional behavioral assessment and implement a behavioral intervention plan, or review and modify an existing BIP;\n(2) Return the child to the placement from which the child was removed, unless the parent and the LEA agree to a change of placement.",
+      "source": "IDEA Regulations (34 CFR Part 300)",
+      "source_short": "34 CFR 300",
+      "section": "Subpart E - Procedural Safeguards",
+      "citation": "",
+      "keywords": [
+        "discipline",
+        "behavior",
+        "iep_content",
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "eligibility",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "ard_committee"
+      ],
+      "id": "chunk_0015"
+    },
+    {
+      "text": "# IDEA - Individuals with Disabilities Education Act\n# 20 USC 1400-1482\n# Key Provisions for IEP Advocacy\n",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "",
+      "citation": "20 USC 1400",
+      "keywords": [
+        "assistive_technology",
+        "iep_content"
+      ],
+      "id": "chunk_0016"
+    },
+    {
+      "text": "## 20 USC 1400 - Congressional Findings and Purpose\n\nCongress finds that:\n- Disability is a natural part of the human experience and in no way diminishes the right of individuals to participate in or contribute to society.\n- Improving educational results for children with disabilities is an essential element of our national policy of ensuring equality of opportunity, full participation, independent living, and economic self-sufficiency for individuals with disabilities.\n- The education of children with disabilities can be made more effective by having high expectations for such children and ensuring their access to the general education curriculum in the regular classroom, to the maximum extent possible.\n",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1400 - Congressional Findings and Purpose",
+      "citation": "20 USC 1400",
+      "keywords": [
+        "assistive_technology",
+        "parent_rights"
+      ],
+      "id": "chunk_0017"
+    },
+    {
+      "text": "## 20 USC 1401 - Definitions\n\n### Child with a Disability (20 USC 1401(3))\nThe term \"child with a disability\" means a child:\n(i) with intellectual disabilities, hearing impairments (including deafness), speech or language impairments, visual impairments (including blindness), serious emotional disturbance, orthopedic impairments, autism, traumatic brain injury, other health impairments, or specific learning disabilities; and\n(ii) who, by reason thereof, needs special education and related services.\n\n### Free Appropriate Public Education - FAPE (20 USC 1401(9))\nThe term \"free appropriate public education\" means special education and related services that:\n(A) have been provided at public expense, under public supervision and direction, and without charge;\n(B) meet the standards of the State educational agency;\n(C) include an appropriate preschool, elementary school, or secondary school education in the State involved; and\n(D) are provided in conformity with the individualized education program required under section 1414(d).\n\n### Individualized Education Program - IEP (20 USC 1401(14))\nThe term \"individualized education program\" or \"IEP\" means a written statement for each child with a disability that is developed, reviewed, and revised in accordance with section 1414(d).",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1401 - Definitions",
+      "citation": "20 USC 1401",
+      "keywords": [
+        "fape",
+        "iep_content",
+        "related_services",
+        "eligibility",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "iee",
+        "due_process"
+      ],
+      "id": "chunk_0018"
+    },
+    {
+      "text": "C 1401(14))\nThe term \"individualized education program\" or \"IEP\" means a written statement for each child with a disability that is developed, reviewed, and revised in accordance with section 1414(d).\n\n### Related Services (20 USC 1401(26))\nThe term \"related services\" means transportation, and such developmental, corrective, and other supportive services (including speech-language pathology and audiology services, interpreting services, psychological services, physical and occupational therapy, recreation, including therapeutic recreation, social work services, school nurse services designed to enable a child with a disability to receive a free appropriate public education as described in the individualized education program of the child, counseling services, including rehabilitation counseling, orientation and mobility services, and medical services, except that such medical services shall be for diagnostic and evaluation purposes only) as may be required to assist a child with a disability to benefit from special education.\n\n### Supplementary Aids and Services (20 USC 1401(33))\nThe term \"supplementary aids and services\" means aids, services, and other supports that are provided in regular education classes, other education-related settings, and in extracurricular and nonacademic settings, to enable children with disabilities to be educated with nondisabled children to the maximum extent appropriate.",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1401 - Definitions",
+      "citation": "20 USC 1401(26)",
+      "keywords": [
+        "fape",
+        "iep_content",
+        "evaluation",
+        "eligibility",
+        "related_services",
+        "accommodations",
+        "assistive_technology",
+        "lre"
+      ],
+      "id": "chunk_0019"
+    },
+    {
+      "text": "ses, other education-related settings, and in extracurricular and nonacademic settings, to enable children with disabilities to be educated with nondisabled children to the maximum extent appropriate.\n\n### Transition Services (20 USC 1401(34))\nThe term \"transition services\" means a coordinated set of activities for a child with a disability that is designed to be within a results-oriented process, that is focused on improving the academic and functional achievement of the child with a disability to facilitate the child's movement from school to post-school activities.",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1401 - Definitions",
+      "citation": "20 USC 1401(34)",
+      "keywords": [
+        "related_services",
+        "eligibility",
+        "transition",
+        "assistive_technology"
+      ],
+      "id": "chunk_0020"
+    },
+    {
+      "text": "## 20 USC 1412 - State Eligibility\n\n### Child Find (20 USC 1412(a)(3))\nAll children with disabilities residing in the State, including children with disabilities who are homeless children or are wards of the State and children with disabilities attending private schools, regardless of the severity of their disabilities, and who are in need of special education and related services, are identified, located, and evaluated.\n\n### Least Restrictive Environment - LRE (20 USC 1412(a)(5))\nTo the maximum extent appropriate, children with disabilities, including children in public or private institutions or other care facilities, are educated with children who are not disabled, and special classes, separate schooling, or other removal of children with disabilities from the regular educational environment occurs only when the nature or severity of the disability of a child is such that education in regular classes with the use of supplementary aids and services cannot be achieved satisfactorily.\n\n### Procedural Safeguards (20 USC 1412(a)(6))\nChildren with disabilities and their parents are afforded the procedural safeguards required by section 1415.\n",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1412 - State Eligibility",
+      "citation": "20 USC 1412",
+      "keywords": [
+        "discipline",
+        "parent_rights",
+        "evaluation",
+        "eligibility",
+        "related_services",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "lre",
+        "ard_committee",
+        "procedural"
+      ],
+      "id": "chunk_0021"
+    },
+    {
+      "text": "## 20 USC 1414 - Evaluations, Eligibility, IEPs\n\n### Initial Evaluations (20 USC 1414(a))\nA State educational agency, other State agency, or local educational agency shall conduct a full and individual initial evaluation before the initial provision of special education and related services to a child with a disability.\n\n### Parental Consent (20 USC 1414(a)(1)(D))\nThe agency proposing to conduct an initial evaluation to determine if the child qualifies as a child with a disability shall obtain informed consent from the parent of such child before conducting the evaluation.\n\n### Evaluation Procedures (20 USC 1414(b))\n(1) Each local educational agency shall ensure that the child is assessed in all areas of suspected disability.\n(2) Assessments and other evaluation materials used to assess a child:\n(A) are selected and administered so as not to be discriminatory on a racial or cultural basis;\n(B) are provided and administered in the language and form most likely to yield accurate information on what the child knows and can do academically, developmentally, and functionally;\n(C) are used for purposes for which the assessments or measures are valid and reliable;\n(D) are administered by trained and knowledgeable personnel; and\n(E) are administered in accordance with any instructions provided by the producer of such assessments.",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1414 - Evaluations, Eligibility, IEPs",
+      "citation": "20 USC 1414",
+      "keywords": [
+        "iep_content",
+        "parent_rights",
+        "evaluation",
+        "eligibility",
+        "related_services",
+        "assistive_technology",
+        "procedural"
+      ],
+      "id": "chunk_0022"
+    },
+    {
+      "text": "measures are valid and reliable;\n(D) are administered by trained and knowledgeable personnel; and\n(E) are administered in accordance with any instructions provided by the producer of such assessments.\n\n### Reevaluations (20 USC 1414(a)(2))\nA reevaluation shall be conducted at least once every 3 years, unless the parent and the local educational agency agree that a reevaluation is unnecessary. A reevaluation may not occur more than once a year, unless the parent and the local educational agency agree otherwise.\n\n### IEP Content (20 USC 1414(d)(1)(A))\nThe term \"individualized education program\" means a written statement for each child with a disability that includes:\n(i) a statement of the child's present levels of academic achievement and functional performance;\n(ii) a statement of measurable annual goals, including academic and functional goals;\n(iii) a description of how the child's progress toward meeting the annual goals will be measured and when periodic reports on the progress the child is making will be provided;\n(iv) a statement of the special education and related services and supplementary aids and services to be provided to the child;\n(v) an explanation of the extent, if any, to which the child will not participate with nondisabled children in the regular class;\n(vi) a statement of any individual appropriate accommodations that are necessary to measure the academic achievement and functional performance of the child on State and districtwide assessments;\n(vii) the p",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1414 - Evaluations, Eligibility, IEPs",
+      "citation": "20 USC 1414(a)(2)",
+      "keywords": [
+        "section_504",
+        "iep_content",
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "eligibility",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "ard_committee"
+      ],
+      "id": "chunk_0023"
+    },
+    {
+      "text": "statement of any individual appropriate accommodations that are necessary to measure the academic achievement and functional performance of the child on State and districtwide assessments;\n(vii) the projected date for the beginning of the services and modifications, and the anticipated frequency, location, and duration of those services and modifications.\n\n### IEP Team (20 USC 1414(d)(1)(B))\nThe IEP Team for each child with a disability shall include:\n(i) the parents of the child;\n(ii) not less than 1 regular education teacher of the child (if the child is, or may be, participating in the regular education environment);\n(iii) not less than 1 special education teacher of the child, or where appropriate, not less than 1 special education provider of the child;\n(iv) a representative of the local educational agency who is qualified to provide, or supervise the provision of, specially designed instruction, is knowledgeable about the general education curriculum, and is knowledgeable about the availability of resources of the local educational agency;\n(v) an individual who can interpret the instructional implications of evaluation results;\n(vi) at the discretion of the parent or the agency, other individuals who have knowledge or special expertise regarding the child.\n\n### Parental Participation (20 USC 1414(d)(1)(B)(i))\nThe parents of each child with a disability are members of any group that makes decisions on the educational placement of their child.",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1414 - Evaluations, Eligibility, IEPs",
+      "citation": "20 USC 1414(d)(1)(B)",
+      "keywords": [
+        "section_504",
+        "iep_content",
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "eligibility",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "lre",
+        "ard_committee"
+      ],
+      "id": "chunk_0024"
+    },
+    {
+      "text": "the child.\n\n### Parental Participation (20 USC 1414(d)(1)(B)(i))\nThe parents of each child with a disability are members of any group that makes decisions on the educational placement of their child.\n\n### Consideration of Special Factors (20 USC 1414(d)(3)(B))\nThe IEP Team shall:\n(i) in the case of a child whose behavior impedes the child's learning or that of others, consider the use of positive behavioral interventions and supports, and other strategies, to address that behavior;\n(ii) in the case of a child with limited English proficiency, consider the language needs of the child;\n(iii) in the case of a child who is blind or visually impaired, provide for instruction in Braille and the use of Braille unless the IEP Team determines, after an evaluation, that instruction in Braille is not appropriate;\n(iv) consider the communication needs of the child;\n(v) consider whether the child needs assistive technology devices and assistive technology services.",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1414 - Evaluations, Eligibility, IEPs",
+      "citation": "20 USC 1414(d)(1)(B)(i)",
+      "keywords": [
+        "discipline",
+        "behavior",
+        "iep_content",
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "eligibility",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "ard_committee"
+      ],
+      "id": "chunk_0025"
+    },
+    {
+      "text": "## 20 USC 1415 - Procedural Safeguards\n\n### Prior Written Notice (20 USC 1415(b)(3))\nWritten prior notice must be given to the parents whenever the agency proposes to initiate or change, or refuses to initiate or change, the identification, evaluation, or educational placement of the child, or the provision of a free appropriate public education to the child.\n\n### Content of Prior Written Notice (20 USC 1415(c)(1))\nThe notice shall include:\n(A) a description of the action proposed or refused by the agency;\n(B) an explanation of why the agency proposes or refuses to take the action;\n(C) a description of each evaluation procedure, assessment, record, or report the agency used as a basis for the proposed or refused action;\n(D) a statement that the parents of a child with a disability have protection under the procedural safeguards and the means by which a copy of a description of the procedural safeguards can be obtained;\n(E) sources for parents to contact to obtain assistance in understanding the provisions;\n(F) a description of other options that the IEP Team considered and the reasons why those options were rejected;\n(G) a description of other factors that are relevant to the agency's proposal or refusal.",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1415 - Procedural Safeguards",
+      "citation": "20 USC 1415",
+      "keywords": [
+        "fape",
+        "iep_content",
+        "parent_rights",
+        "evaluation",
+        "eligibility",
+        "related_services",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "procedural"
+      ],
+      "id": "chunk_0026"
+    },
+    {
+      "text": ") a description of other options that the IEP Team considered and the reasons why those options were rejected;\n(G) a description of other factors that are relevant to the agency's proposal or refusal.\n\n### Independent Educational Evaluation (20 USC 1415(b)(1))\nParents have the right to an independent educational evaluation of the child. If the parent disagrees with an evaluation obtained by the local educational agency, the parent has the right to obtain an independent educational evaluation of the child at public expense, subject to the criteria established by the agency.\n\n### Due Process Complaints (20 USC 1415(b)(6))\nA parent or a public agency may file a due process complaint on matters relating to the identification, evaluation, or educational placement of a child with a disability, or the provision of a free appropriate public education to such child.\n\n### Mediation (20 USC 1415(e))\nAny State educational agency or local educational agency that receives assistance under this part shall ensure that procedures are established and implemented to allow parties to disputes involving any matter to resolve such disputes through a mediation process.\n\n### Stay-Put / Pendency (20 USC 1415(j))\nDuring the pendency of any proceedings conducted pursuant to this section, unless the State or local educational agency and the parents otherwise agree, the child shall remain in the then-current educational placement of the child.",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1415 - Procedural Safeguards",
+      "citation": "20 USC 1415(b)(1)",
+      "keywords": [
+        "fape",
+        "iep_content",
+        "parent_rights",
+        "evaluation",
+        "eligibility",
+        "related_services",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "iee",
+        "due_process"
+      ],
+      "id": "chunk_0027"
+    },
+    {
+      "text": "## 20 USC 1415(k) - Discipline Provisions\n\n### Manifestation Determination (20 USC 1415(k)(1)(E))\nWithin 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the child's IEP Team shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine:\n(I) if the conduct in question was caused by, or had a direct and substantial relationship to, the child's disability; or\n(II) if the conduct in question was the direct result of the local educational agency's failure to implement the IEP.\n\n### Services During Removal (20 USC 1415(k)(1)(D))\nA child with a disability who is removed from the child's current placement shall continue to receive educational services so as to enable the child to continue to participate in the general education curriculum, although in another setting, and to progress toward meeting the goals set out in the child's IEP.\n",
+      "source": "IDEA Statute (20 USC 1400-1482)",
+      "source_short": "IDEA",
+      "section": "20 USC 1415(k) - Discipline Provisions",
+      "citation": "20 USC 1415(k)",
+      "keywords": [
+        "discipline",
+        "iep_content",
+        "parent_rights",
+        "related_services",
+        "eligibility",
+        "assistive_technology",
+        "texas",
+        "ard_committee"
+      ],
+      "id": "chunk_0028"
+    },
+    {
+      "text": "# Section 504 of the Rehabilitation Act of 1973\n# 29 USC 794 and Implementing Regulations 34 CFR Part 104\n# Key Provisions for Education Advocacy\n",
+      "source": "Section 504 & Regulations (34 CFR Part 104)",
+      "source_short": "Section 504",
+      "section": "",
+      "citation": "29 USC 794",
+      "keywords": [
+        "section_504",
+        "assistive_technology"
+      ],
+      "id": "chunk_0029"
+    },
+    {
+      "text": "## 29 USC 794 - Section 504 Statute\n\nNo otherwise qualified individual with a disability in the United States shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance.\n",
+      "source": "Section 504 & Regulations (34 CFR Part 104)",
+      "source_short": "Section 504",
+      "section": "29 USC 794 - Section 504 Statute",
+      "citation": "29 USC 794",
+      "keywords": [
+        "section_504",
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "assistive_technology"
+      ],
+      "id": "chunk_0030"
+    },
+    {
+      "text": "## 34 CFR 104.3 - Definitions\n\n### Qualified Handicapped Person (Education Context)\nWith respect to public preschool, elementary, secondary, or adult educational services, a qualified handicapped person is a handicapped person:\n(i) of an age during which nonhandicapped persons are provided such services,\n(ii) of any age during which it is mandatory under state law to provide such services to handicapped persons, or\n(iii) to whom a state is required to provide a free appropriate public education under IDEA.\n\n### Physical or Mental Impairment\nAny physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: neurological; musculoskeletal; special sense organs; respiratory, including speech organs; cardiovascular; reproductive; digestive; genitourinary; hemic and lymphatic; skin; and endocrine; or any mental or psychological disorder.\n\n### Major Life Activities\nFunctions such as caring for one's self, performing manual tasks, walking, seeing, hearing, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working. Also includes the operation of a major bodily function, including functions of the immune system, normal cell growth, digestive, bowel, bladder, neurological, brain, respiratory, circulatory, endocrine, and reproductive functions.\n",
+      "source": "Section 504 & Regulations (34 CFR Part 104)",
+      "source_short": "Section 504",
+      "section": "34 CFR 104.3 - Definitions",
+      "citation": "34 CFR 104.3",
+      "keywords": [
+        "fape",
+        "evaluation",
+        "related_services",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "due_process"
+      ],
+      "id": "chunk_0031"
+    },
+    {
+      "text": "## 34 CFR 104.33 - Free Appropriate Public Education\n\n(a) A recipient that operates a public elementary or secondary education program or activity shall provide a free appropriate public education to each qualified handicapped person who is in the recipient's jurisdiction.\n(b) For purposes of this section, the provision of an appropriate education is the provision of regular or special education and related aids and services that:\n(i) are designed to meet individual educational needs of handicapped persons as adequately as the needs of nonhandicapped persons are met; and\n(ii) are based upon adherence to evaluation and placement procedures.\n(c) Implementation of an IEP developed in accordance with IDEA is one means of meeting this standard.\n",
+      "source": "Section 504 & Regulations (34 CFR Part 104)",
+      "source_short": "Section 504",
+      "section": "34 CFR 104.33 - Free Appropriate Public Education",
+      "citation": "34 CFR 104.33",
+      "keywords": [
+        "fape",
+        "iep_content",
+        "evaluation",
+        "assistive_technology",
+        "texas",
+        "ard_committee"
+      ],
+      "id": "chunk_0032"
+    },
+    {
+      "text": "## 34 CFR 104.34 - Educational Setting\n\n(a) A recipient shall educate, or shall provide for the education of, each qualified handicapped person in its jurisdiction with persons who are not handicapped to the maximum extent appropriate to the needs of the handicapped person.\n(b) A recipient shall place a handicapped person in the regular educational environment unless it is demonstrated that the education of the person in the regular environment with the use of supplementary aids and services cannot be achieved satisfactorily.\n",
+      "source": "Section 504 & Regulations (34 CFR Part 104)",
+      "source_short": "Section 504",
+      "section": "34 CFR 104.34 - Educational Setting",
+      "citation": "34 CFR 104.34",
+      "keywords": [
+        "related_services",
+        "evaluation",
+        "assistive_technology",
+        "accommodations",
+        "lre"
+      ],
+      "id": "chunk_0033"
+    },
+    {
+      "text": "## 34 CFR 104.35 - Evaluation and Placement\n\n(a) A recipient that operates a public elementary or secondary education program or activity shall conduct an evaluation of any person who, because of handicap, needs or is believed to need special education or related services before taking any action with respect to the initial placement of the person and before any subsequent significant change in placement.\n(b) Tests and other evaluation materials:\n(1) Have been validated for the specific purpose for which they are used;\n(2) Are administered by trained personnel in conformance with the instructions provided by their producer;\n(3) Include those tailored to assess specific areas of educational need and not merely those which are designed to provide a single general intelligence quotient; and\n(4) Are selected and administered so as best to ensure that, when a test is administered to a student with impaired sensory, manual, or speaking skills, the test results accurately reflect the student's aptitude or achievement level rather than reflecting the student's impaired skills.\n(c) In interpreting evaluation data and in making placement decisions, the recipient shall:\n(1) Draw upon information from a variety of sources;\n(2) Establish procedures to ensure that information obtained from all such sources is documented and carefully considered;\n(3) Ensure that the placement decision is made by a group of persons knowledgeable about the child, the meaning of the evaluation data, and the pl",
+      "source": "Section 504 & Regulations (34 CFR Part 104)",
+      "source_short": "Section 504",
+      "section": "34 CFR 104.35 - Evaluation and Placement",
+      "citation": "34 CFR 104.35",
+      "keywords": [
+        "related_services",
+        "evaluation",
+        "assistive_technology"
+      ],
+      "id": "chunk_0034"
+    },
+    {
+      "text": "such sources is documented and carefully considered;\n(3) Ensure that the placement decision is made by a group of persons knowledgeable about the child, the meaning of the evaluation data, and the placement options; and\n(4) Ensure that the placement decision is made in conformity with LRE requirements.\n(d) A recipient shall establish procedures for periodic reevaluation. A reevaluation is required before any significant change in placement.",
+      "source": "Section 504 & Regulations (34 CFR Part 104)",
+      "source_short": "Section 504",
+      "section": "34 CFR 104.35 - Evaluation and Placement",
+      "citation": "",
+      "keywords": [
+        "related_services",
+        "lre",
+        "evaluation",
+        "assistive_technology"
+      ],
+      "id": "chunk_0035"
+    },
+    {
+      "text": "## 34 CFR 104.36 - Procedural Safeguards\n\nA recipient that operates a public elementary or secondary education program or activity shall establish and implement a system of procedural safeguards that includes:\n- Notice\n- An opportunity for the parents or guardian to examine relevant records\n- An impartial hearing with opportunity for participation by the parents or guardian and representation by counsel\n- A review procedure\n",
+      "source": "Section 504 & Regulations (34 CFR Part 104)",
+      "source_short": "Section 504",
+      "section": "34 CFR 104.36 - Procedural Safeguards",
+      "citation": "34 CFR 104.36",
+      "keywords": [
+        "parent_rights",
+        "related_services",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "procedural",
+        "due_process"
+      ],
+      "id": "chunk_0036"
+    },
+    {
+      "text": "## Key Differences: Section 504 vs. IDEA\n\n### Eligibility\n- IDEA: Child must have one of 13 specified disability categories AND need special education\n- 504: Child must have any physical or mental impairment that substantially limits a major life activity (broader standard)\n\n### FAPE Standard\n- IDEA: Endrew F. standard - reasonably calculated to enable a child to make progress appropriate in light of the child's circumstances\n- 504: Services designed to meet the needs of handicapped students as adequately as the needs of nonhandicapped students are met\n\n### Plan\n- IDEA: Requires a formal IEP document with specific components\n- 504: Requires a plan (often called a \"504 Plan\") but no specific format is mandated by federal law\n\n### Funding\n- IDEA: Provides federal funding to states for special education\n- 504: Civil rights statute with no additional funding; compliance is required as a condition of receiving any federal funds\n\n### Enforcement\n- IDEA: Due process hearing, state complaint, mediation\n- 504: OCR complaint, due process hearing, private right of action in court\n",
+      "source": "Section 504 & Regulations (34 CFR Part 104)",
+      "source_short": "Section 504",
+      "section": "Key Differences: Section 504 vs. IDEA",
+      "citation": "Section 504",
+      "keywords": [
+        "fape",
+        "section_504",
+        "iep_content",
+        "evaluation",
+        "eligibility",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "due_process"
+      ],
+      "id": "chunk_0037"
+    },
+    {
+      "text": "# Texas Education Code - Chapter 29\n# Special Education and Related Services\n# Key Provisions for Texas IEP/ARD Advocacy\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "",
+      "citation": "",
+      "keywords": [
+        "iep_content",
+        "related_services",
+        "assistive_technology",
+        "texas",
+        "ard_committee"
+      ],
+      "id": "chunk_0038"
+    },
+    {
+      "text": "## TEC 29.001 - Statewide Plan\n\nThe agency shall develop, and modify as necessary, a statewide design, consistent with federal law, for the delivery of services to children with disabilities in this state that includes rules for the administration and funding of the special education program.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "TEC 29.001 - Statewide Plan",
+      "citation": "TEC 29.001",
+      "keywords": [
+        "texas",
+        "assistive_technology"
+      ],
+      "id": "chunk_0039"
+    },
+    {
+      "text": "## TEC 29.003 - Eligibility Criteria\n\n(a) The agency shall develop specific eligibility criteria based on the general classifications established by this section with reference to contemporary diagnostic or evaluative terminology and methodology.\n(b) A student is eligible to participate in a school district's special education program if the student:\n(1) is not more than 21 years of age and has a visual or auditory impairment that prevents the student from being adequately or safely educated in public school without the provision of special services; or\n(2) is at least three years of age and not more than 21 years of age and has one or more of the following disabilities that prevents the student from being adequately or safely educated in public school without the provision of special services:\n(A) intellectual disability;\n(B) a speech or language impairment;\n(C) an emotional disturbance;\n(D) a learning disability;\n(E) autism;\n(F) traumatic brain injury;\n(G) a visual or auditory impairment;\n(H) an orthopedic impairment;\n(I) other health impairment;\n(J) deaf-blindness; or\n(K) multiple disabilities.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "TEC 29.003 - Eligibility Criteria",
+      "citation": "TEC 29.003",
+      "keywords": [
+        "texas",
+        "related_services",
+        "eligibility",
+        "assistive_technology"
+      ],
+      "id": "chunk_0040"
+    },
+    {
+      "text": "## TEC 29.004 - Full Individual and Initial Evaluation (FIE)\n\n(a) A written report of a full individual and initial evaluation of a student for purposes of special education services shall be completed not later than the 45th school day following the date on which the school district receives written consent for the evaluation signed by the student's parent or legal guardian, except as otherwise provided.\n(b) The evaluation shall be conducted using procedures that are appropriate for the student's most proficient method of communication.\n(c) If a student was receiving special education services from a previous school district, the new school district may use the student's previous evaluation to provide comparable services.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "TEC 29.004 - Full Individual and Initial Evaluation (FIE)",
+      "citation": "TEC 29.004",
+      "keywords": [
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "procedural"
+      ],
+      "id": "chunk_0041"
+    },
+    {
+      "text": "## TEC 29.005 - Individualized Education Program (IEP / ARD)\n\n(a) Before a child is placed in a special education program, a committee composed of the persons described in Section 29.005(b) shall develop the child's individualized education program (referred to in Texas as the ARD committee).\n(b) The committee shall include:\n(1) the person or persons best qualified to interpret the evaluation data;\n(2) a regular education teacher if the child is, or may be, participating in the regular education environment;\n(3) a special education teacher;\n(4) a representative of the school district;\n(5) the child's parent or legal guardian;\n(6) the child, if appropriate; and\n(7) other individuals at the discretion of the parent or the district.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "TEC 29.005 - Individualized Education Program (IEP / ARD)",
+      "citation": "TEC 29.005",
+      "keywords": [
+        "iep_content",
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "assistive_technology",
+        "texas",
+        "lre",
+        "ard_committee"
+      ],
+      "id": "chunk_0042"
+    },
+    {
+      "text": "## TEC 29.005(d) - Video and Audio Recording of ARD Meetings\n\nThe parent of a child who receives special education services, or who is being evaluated for special education services, is entitled to:\n(1) audio record the proceedings of each ARD committee meeting;\n(2) receive notice of this right.\n\nA school district may audio or video record ARD committee proceedings.\n\n**Important**: Texas law explicitly grants parents the right to audio record ARD meetings. The district must provide notice of this right.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "TEC 29.005(d) - Video and Audio Recording of ARD Meetings",
+      "citation": "TEC 29.005(d)",
+      "keywords": [
+        "parent_rights",
+        "related_services",
+        "assistive_technology",
+        "texas",
+        "ard_committee"
+      ],
+      "id": "chunk_0043"
+    },
+    {
+      "text": "## TEC 29.0051 - Information and Consent for Certain Psychological Examinations or Tests\n\nBefore obtaining the consent of a parent for a full individual and initial evaluation of a student, the school district must provide the parent with:\n(1) information describing the evaluation process;\n(2) information listing the evaluation measures that may be used;\n(3) information about the differences between an individualized education program under IDEA and a Section 504 plan.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "TEC 29.0051 - Information and Consent for Certain Psychological Examinations or Tests",
+      "citation": "TEC 29.0051",
+      "keywords": [
+        "section_504",
+        "iep_content",
+        "parent_rights",
+        "evaluation",
+        "assistive_technology",
+        "texas",
+        "procedural"
+      ],
+      "id": "chunk_0044"
+    },
+    {
+      "text": "## TEC 29.008 - Contracts for Services\n\nThe board of trustees of a school district may contract with a public or private facility, institution, or agency inside or outside of this state for the provision of services to students with disabilities.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "TEC 29.008 - Contracts for Services",
+      "citation": "TEC 29.008",
+      "keywords": [
+        "texas",
+        "ard_committee",
+        "assistive_technology"
+      ],
+      "id": "chunk_0045"
+    },
+    {
+      "text": "## TEC 29.010 - Compliance\n\n(a) The agency shall adopt and implement a comprehensive system for monitoring school district compliance with federal and state laws relating to special education.\n(b) The monitoring system must provide for ongoing analysis of school district special education data.\n(c) The agency shall develop and implement a set of indicators of the quality of learning and achievement of students in special education programs.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "TEC 29.010 - Compliance",
+      "citation": "TEC 29.010",
+      "keywords": [
+        "texas",
+        "related_services",
+        "assistive_technology"
+      ],
+      "id": "chunk_0046"
+    },
+    {
+      "text": "## TEC 29.012 - Residential Placement\n\nA school district shall provide, or contract for the provision of, residential placement of a student with a disability if the student's admission, review, and dismissal committee determines that a residential placement is necessary for the student to receive a free appropriate public education.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "TEC 29.012 - Residential Placement",
+      "citation": "TEC 29.012",
+      "keywords": [
+        "fape",
+        "ard_committee",
+        "assistive_technology",
+        "texas"
+      ],
+      "id": "chunk_0047"
+    },
+    {
+      "text": "## TEC 29.014 - Transition and Employment Guide\n\n(a) The agency, in cooperation with the Health and Human Services Commission and the Texas Workforce Commission, shall develop a transition and employment guide for students enrolled in special education programs.\n(b) The guide must provide information and resources to help students and their parents in planning the students' transition from school to post-school activities.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "TEC 29.014 - Transition and Employment Guide",
+      "citation": "TEC 29.014",
+      "keywords": [
+        "texas",
+        "assistive_technology",
+        "transition",
+        "parent_rights"
+      ],
+      "id": "chunk_0048"
+    },
+    {
+      "text": "## TEC 29.0141 - Individualized Transition Plan\n\nEach school district shall provide transition planning for each student beginning at age 14, to be addressed in the student's IEP. The transition plan must address appropriate postsecondary goals based upon age-appropriate transition assessments.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "TEC 29.0141 - Individualized Transition Plan",
+      "citation": "TEC 29.0141",
+      "keywords": [
+        "iep_content",
+        "evaluation",
+        "assistive_technology",
+        "texas",
+        "transition"
+      ],
+      "id": "chunk_0049"
+    },
+    {
+      "text": "## Texas Administrative Code Title 19, Chapter 89 - Selected Provisions\n\n### 19 TAC 89.1011 - Full Individual and Initial Evaluation\n\n(a) Referral of students for a full individual and initial evaluation for possible special education services must be a part of the school district's overall general education referral or screening system.\n(b) A parent may request an initial evaluation at any time.\n(c) The school district must give the parent the Notice of Procedural Safeguards within 15 school days of receiving a referral.\n\n### 19 TAC 89.1040 - Admission, Review, and Dismissal (ARD) Committee\n\n(a) Each school district shall establish an ARD committee for each eligible student with a disability.\n(c) The ARD committee shall meet to:\n(1) develop, review, or revise the student's IEP;\n(2) determine the student's placement; and\n(3) make other educational decisions for the student.\n(d) Each ARD committee meeting must be scheduled at a mutually agreed upon time and place.\n(e) The ARD committee shall consider:\n(1) the strengths of the student;\n(2) the concerns of the parents for enhancing the education of their child;\n(3) the results of the initial or most recent evaluation of the student; and\n(4) the academic, developmental, and functional needs of the student.\n\n### 19 TAC 89.1050 - The ARD Committee Decision-Making Process and Disagreements",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "Texas Administrative Code Title 19, Chapter 89 - Selected Provisions",
+      "citation": "19 TAC 89.1011",
+      "keywords": [
+        "iep_content",
+        "iee",
+        "parent_rights",
+        "related_services",
+        "evaluation",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "procedural"
+      ],
+      "id": "chunk_0050"
+    },
+    {
+      "text": "al or most recent evaluation of the student; and\n(4) the academic, developmental, and functional needs of the student.\n\n### 19 TAC 89.1050 - The ARD Committee Decision-Making Process and Disagreements\n\n(a) Decisions of the ARD committee are to be made by consensus. The ARD committee should work toward consensus, but the school district holds ultimate responsibility for ensuring that the student is offered FAPE.\n(b) When the ARD committee cannot reach consensus:\n(1) The parents who disagree shall be offered a single opportunity to have the committee recess for a period of time not to exceed 10 school days.\n(2) The school district shall provide the parents with prior written notice of the district's proposed action or refusal to act.\n(c) If the parent does not consent, the district shall implement the IEP that was last agreed upon by the ARD committee.\n\n**Important**: Texas has a unique \"10-day recess\" rule. If the ARD committee cannot reach agreement, parents can request a 10-school-day recess to consider options, obtain additional information, or consult with others. This is a powerful advocacy tool.\n\n### 19 TAC 89.1055 - Content of the IEP",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "Texas Administrative Code Title 19, Chapter 89 - Selected Provisions",
+      "citation": "19 TAC 89.1050",
+      "keywords": [
+        "fape",
+        "iep_content",
+        "iee",
+        "parent_rights",
+        "evaluation",
+        "related_services",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "procedural"
+      ],
+      "id": "chunk_0051"
+    },
+    {
+      "text": "ement, parents can request a 10-school-day recess to consider options, obtain additional information, or consult with others. This is a powerful advocacy tool.\n\n### 19 TAC 89.1055 - Content of the IEP\n\nIn addition to the requirements of 34 CFR 300.320, each student's IEP must include:\n(1) the projected dates for initiation and duration of services;\n(2) the anticipated frequency of services;\n(3) the location of services;\n(4) a statement of needed transition services for students beginning no later than when the student turns 14;\n(5) for students beginning at age 16, a statement of interagency responsibilities or linkages;\n(6) the schedule for reevaluation.\n\n### 19 TAC 89.1075 - General Program Requirements and Local District Procedures\n\n(a) Instruction and services for eligible students with disabilities shall be provided by appropriately certified or licensed professionals.\n(b) Students with disabilities shall be provided instructional materials at the same time as general education students.\n(c) The general education teacher in the ARD committee meeting shall, to the extent appropriate, participate in the development of the student's IEP, including the determination of appropriate positive behavioral interventions and supports, supplementary aids and services, program modifications, and supports for school personnel.\n\n### 19 TAC 89.1085 - Extended School Year Services (ESY)",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "Texas Administrative Code Title 19, Chapter 89 - Selected Provisions",
+      "citation": "34 CFR 300.320",
+      "keywords": [
+        "discipline",
+        "esy",
+        "behavior",
+        "iep_content",
+        "parent_rights",
+        "evaluation",
+        "related_services",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "ard_committee",
+        "transition"
+      ],
+      "id": "chunk_0052"
+    },
+    {
+      "text": "ate positive behavioral interventions and supports, supplementary aids and services, program modifications, and supports for school personnel.\n\n### 19 TAC 89.1085 - Extended School Year Services (ESY)\n\n(a) Each school district shall ensure that ESY services are available as necessary to provide FAPE.\n(b) The need for ESY services must be determined on an individual basis by the ARD committee.\n(c) In determining the need for ESY services, the ARD committee shall consider:\n(1) regression and recoupment data;\n(2) the degree of progress toward IEP goals;\n(3) emerging skills or breakthrough opportunities;\n(4) interfering behaviors;\n(5) the nature and severity of the disability;\n(6) special circumstances.\n(d) A school district may not:\n(1) limit ESY services to particular categories of disability; or\n(2) unilaterally limit the type, amount, or duration of ESY services.",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "Texas Administrative Code Title 19, Chapter 89 - Selected Provisions",
+      "citation": "19 TAC 89.1085",
+      "keywords": [
+        "discipline",
+        "esy",
+        "fape",
+        "behavior",
+        "iep_content",
+        "related_services",
+        "eligibility",
+        "accommodations",
+        "assistive_technology",
+        "texas",
+        "ard_committee"
+      ],
+      "id": "chunk_0053"
+    },
+    {
+      "text": "## Texas Endrew F. Application\n\nFollowing Endrew F. v. Douglas County School District (2017), Texas applies the heightened FAPE standard: an IEP must be reasonably calculated to enable a child to make progress appropriate in light of the child's circumstances. This replaced the prior \"some educational benefit\" standard (Rowley).\n\nTEA has issued guidance that ARD committees must develop ambitious but achievable IEP goals that provide the student with a meaningful opportunity to meet challenging objectives.\n",
+      "source": "Texas Education Code Chapter 29 & TAC Title 19",
+      "source_short": "Texas",
+      "section": "Texas Endrew F. Application",
+      "citation": "",
+      "keywords": [
+        "fape",
+        "iep_content",
+        "assistive_technology",
+        "texas",
+        "ard_committee"
+      ],
+      "id": "chunk_0054"
+    }
+  ]
+}

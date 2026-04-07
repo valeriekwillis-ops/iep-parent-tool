@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free IEP Meeting Assistant — Thrive Advocacy Group</title>
+    <meta name="description" content="Free tool for parents to get real-time help during IEP and ARD meetings. Understand your child's special education rights.">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- ========== WELCOME VIEW ========== -->
+    <div id="welcomeView" class="view">
+        <div class="welcome-container">
+            <div class="welcome-header">
+                <h1>Free IEP Meeting Assistant</h1>
+                <p class="welcome-by">by <strong>Thrive Advocacy Group</strong></p>
+            </div>
+            <div class="welcome-body">
+                <p class="welcome-tagline">Real-time help during your child's IEP/ARD meeting — completely free.</p>
+
+                <div class="feature-cards">
+                    <div class="feature-card">
+                        <div class="feature-icon">&#128172;</div>
+                        <h3>Ask Questions</h3>
+                        <p>Get answers grounded in IDEA, Section 504, and Texas education law — in plain English.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">&#127908;</div>
+                        <h3>Live Transcript</h3>
+                        <p>Record and transcribe your meeting in real-time so you can review what was said.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">&#128196;</div>
+                        <h3>Your Documents</h3>
+                        <p>Load your child's IEP or evaluations for personalized answers. Files stay on your device.</p>
+                    </div>
+                </div>
+
+                <div class="privacy-notice">
+                    <strong>Your privacy is protected.</strong> This tool runs entirely in your browser. Your documents are never uploaded to any server. No account needed. No data collected.
+                </div>
+
+                <button class="btn btn-primary btn-large" onclick="startSetup()">Get Started — It's Free</button>
+
+                <p class="welcome-footer">
+                    Need a professional advocate? Visit <a href="https://www.thriveadvocacygroup.com" target="_blank">Thrive Advocacy Group</a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- ========== SETUP VIEW ========== -->
+    <div id="setupView" class="view hidden">
+        <div class="setup-container">
+            <h2>Quick Setup (60 seconds)</h2>
+            <p>This tool uses a free AI service called Groq. You'll need a free API key — here's how:</p>
+
+            <div class="setup-steps">
+                <div class="step">
+                    <span class="step-num">1</span>
+                    <div>
+                        <strong>Create a free Groq account</strong>
+                        <p>Go to <a href="https://console.groq.com/keys" target="_blank" rel="noopener">console.groq.com/keys</a> and sign up with your email or Google account. It's free.</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <span class="step-num">2</span>
+                    <div>
+                        <strong>Create an API key</strong>
+                        <p>Click "Create API Key", give it a name (like "IEP Tool"), and copy the key.</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <span class="step-num">3</span>
+                    <div>
+                        <strong>Paste it here</strong>
+                        <div class="key-input-row">
+                            <input type="password" id="apiKeyInput" placeholder="Paste your Groq API key here..." class="input-large">
+                            <button class="btn btn-secondary" onclick="testApiKey()">Test</button>
+                        </div>
+                        <div id="keyTestStatus" class="status-msg"></div>
+                    </div>
+                </div>
+            </div>
+
+            <details class="faq-section">
+                <summary>Is this safe? Where does my data go?</summary>
+                <p>Your API key is stored only in your browser (localStorage) and is never sent to Thrive Advocacy Group or anyone else. When you ask a question, only your question and small excerpts of relevant law are sent to Groq's AI servers. Groq does not use your inputs for training. Your child's documents are processed entirely in your browser and are never uploaded anywhere.</p>
+            </details>
+
+            <hr>
+            <h3>Optional: Your Child's Info</h3>
+            <p class="hint">This helps the AI give more relevant answers. You can skip this.</p>
+            <div class="form-grid">
+                <div class="form-row">
+                    <label>Child's Name or Initials</label>
+                    <input type="text" id="childName" placeholder="e.g., J.D.">
+                </div>
+                <div class="form-row">
+                    <label>School District</label>
+                    <input type="text" id="childDistrict" placeholder="e.g., Austin ISD">
+                </div>
+                <div class="form-row">
+                    <label>Grade</label>
+                    <input type="text" id="childGrade" placeholder="e.g., 3rd">
+                </div>
+                <div class="form-row">
+                    <label>Disability Categories</label>
+                    <input type="text" id="childDisabilities" placeholder="e.g., SLD, OHI">
+                </div>
+            </div>
+
+            <button id="finishSetupBtn" class="btn btn-primary btn-large" onclick="finishSetup()" disabled>Start Using the Tool</button>
+            <p class="hint" style="text-align:center">You can change these settings anytime.</p>
+        </div>
+    </div>
+
+    <!-- ========== MAIN VIEW ========== -->
+    <div id="mainView" class="view hidden">
+        <!-- Header -->
+        <header>
+            <div class="header-left">
+                <h1>IEP Assistant</h1>
+                <span id="recordingStatus" class="status-badge"></span>
+            </div>
+            <div class="header-right">
+                <button class="btn btn-secondary btn-small" onclick="showHelp()">Help</button>
+                <button class="btn btn-secondary btn-small" onclick="showDocuments()">Documents</button>
+                <button class="btn btn-secondary btn-small" onclick="showSettings()">Settings</button>
+                <button id="btnRecord" class="btn btn-primary" onclick="toggleRecording()">Start Meeting</button>
+            </div>
+        </header>
+
+        <!-- Mobile Tabs -->
+        <div class="mobile-tabs">
+            <button class="tab-btn active" data-pane="chat">Chat</button>
+            <button class="tab-btn" data-pane="transcript">Transcript</button>
+        </div>
+
+        <!-- Split Pane -->
+        <main>
+            <div id="transcriptPane" class="pane pane-hidden-mobile">
+                <div class="pane-header">
+                    <h2>Live Transcript</h2>
+                    <div class="pane-actions">
+                        <span id="transcriptCount" class="count-badge">0 lines</span>
+                        <button id="btnCopyTranscript" class="btn btn-small" onclick="copyTranscript()">Copy</button>
+                        <button class="btn btn-small" onclick="downloadTranscript()">Download</button>
+                    </div>
+                </div>
+                <div id="transcriptContent" class="pane-content">
+                    <div class="empty-state">
+                        <p>Click "Start Meeting" to begin live transcription.</p>
+                        <p class="hint">Works best in Chrome or Edge.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="chatPane" class="pane">
+                <div class="pane-header">
+                    <h2>Ask a Question</h2>
+                    <button class="btn btn-small" onclick="clearChat()">Clear</button>
+                </div>
+                <div id="chatContent" class="pane-content">
+                    <div class="empty-state">
+                        <p>Ask questions about your child's special education rights.</p>
+                        <p class="hint">Examples:</p>
+                        <ul class="hint">
+                            <li>"What is FAPE and what does my child have a right to?"</li>
+                            <li>"Can the school refuse to evaluate my child?"</li>
+                            <li>"What questions should I ask about my child's IEP goals?"</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="chat-input">
+                    <textarea id="questionInput" placeholder="Type your question..." rows="2" onkeydown="handleChatKeydown(event)"></textarea>
+                    <button class="btn btn-primary" onclick="sendQuestion()">Send</button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- ========== DOCUMENT MODAL ========== -->
+    <div id="documentModal" class="modal" onclick="if(event.target===this)hideDocuments()">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Your Child's Documents</h2>
+                <button class="btn-close" onclick="hideDocuments()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="privacy-badge">Your files are processed in your browser and never uploaded.</div>
+                <div id="documentList" class="item-list">
+                    <p class="hint">No documents loaded. Your files are processed in your browser and never uploaded.</p>
+                </div>
+                <hr>
+                <h3>Add Documents</h3>
+                <p class="hint">Select IEPs, evaluations, or other documents (PDF, DOCX, or TXT).</p>
+                <input type="file" id="fileInput" accept=".pdf,.docx,.doc,.txt" multiple onchange="handleFileSelect(event)">
+                <div id="docProcessStatus" class="status-msg"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ========== SETTINGS MODAL ========== -->
+    <div id="settingsModal" class="modal" onclick="if(event.target===this)hideSettings()">
+        <div class="modal-content modal-small">
+            <div class="modal-header">
+                <h2>Settings</h2>
+                <button class="btn-close" onclick="hideSettings()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-row">
+                    <label>Groq API Key</label>
+                    <input type="password" id="settingsApiKey" placeholder="Your Groq API key">
+                    <p class="hint">Get a free key at <a href="https://console.groq.com/keys" target="_blank">console.groq.com</a></p>
+                </div>
+                <div class="form-row">
+                    <label>Child's Name / Initials</label>
+                    <input type="text" id="settingsChildName">
+                </div>
+                <div class="form-row">
+                    <label>School District</label>
+                    <input type="text" id="settingsDistrict">
+                </div>
+                <button class="btn btn-primary" onclick="saveSettings()">Save</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ========== HELP MODAL ========== -->
+    <div id="helpModal" class="modal" onclick="if(event.target===this)hideHelp()">
+        <div class="modal-content modal-large">
+            <div class="modal-header">
+                <h2>How to Use This Tool</h2>
+                <button class="btn-close" onclick="hideHelp()">&times;</button>
+            </div>
+            <div class="modal-body help-content">
+                <section>
+                    <h3>What Is This Tool?</h3>
+                    <p>This is a <strong>free assistant</strong> created by <a href="https://www.thriveadvocacygroup.com" target="_blank">Thrive Advocacy Group</a> to help parents and caregivers during IEP (Individualized Education Program) and ARD (Admission, Review, and Dismissal) meetings.</p>
+                    <p>It can:</p>
+                    <ul>
+                        <li><strong>Answer your questions</strong> about special education law (IDEA, Section 504, and Texas law) in plain English</li>
+                        <li><strong>Transcribe your meeting</strong> in real-time so you have a record of what was said</li>
+                        <li><strong>Read your child's documents</strong> (IEPs, evaluations) to give you personalized answers — without ever uploading them</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3>Getting Started (First Time Only)</h3>
+                    <p>The AI that answers your questions is powered by a free service called <strong>Groq</strong>. You'll need to create a free account and get an API key. Here's how:</p>
+                    <ol>
+                        <li>Go to <a href="https://console.groq.com/keys" target="_blank">console.groq.com/keys</a></li>
+                        <li>Click <strong>"Sign Up"</strong> — use your email or Google account (it's free, no credit card needed)</li>
+                        <li>Once logged in, click <strong>"Create API Key"</strong></li>
+                        <li>Give it any name (like "IEP Tool") and click <strong>"Submit"</strong></li>
+                        <li>Copy the key that appears (it starts with "gsk_...")</li>
+                        <li>Come back here and paste it into the setup screen</li>
+                    </ol>
+                    <p><strong>This only takes about 60 seconds and you only need to do it once.</strong> Your key is saved in your browser and never shared with anyone.</p>
+                </section>
+
+                <section>
+                    <h3>Using the Chat</h3>
+                    <p>Type any question about your child's special education rights. The assistant will answer in plain English and cite the specific laws so you can reference them in your meeting. Examples:</p>
+                    <ul>
+                        <li>"What is FAPE and what does my child have a right to?"</li>
+                        <li>"The school wants to reduce my child's speech therapy. Can they do that?"</li>
+                        <li>"What questions should I ask about my child's IEP goals?"</li>
+                        <li>"The school says they don't have to pay for an independent evaluation. Is that true?"</li>
+                        <li>"Can I record the ARD meeting?"</li>
+                        <li>"The school wants to suspend my child. What are my rights?"</li>
+                    </ul>
+                    <p>Press <strong>Enter</strong> to send, or <strong>Shift+Enter</strong> for a new line.</p>
+                </section>
+
+                <section>
+                    <h3>Using Live Transcription</h3>
+                    <p>Click <strong>"Start Meeting"</strong> to begin recording and transcribing your meeting in real-time.</p>
+                    <ul>
+                        <li><strong>For in-person meetings:</strong> Place your phone or laptop near the speakers so the microphone can pick up the conversation</li>
+                        <li><strong>For virtual meetings (Zoom/Teams):</strong> The tool will transcribe audio from your computer's microphone</li>
+                        <li>Your browser will ask for <strong>microphone permission</strong> — click "Allow"</li>
+                        <li>Works best in <strong>Chrome</strong> or <strong>Microsoft Edge</strong></li>
+                        <li>Click <strong>"Copy"</strong> or <strong>"Download"</strong> to save your transcript after the meeting</li>
+                    </ul>
+                    <p><strong>Tip:</strong> On a phone, switch between the Chat and Transcript tabs at the top of the screen.</p>
+                </section>
+
+                <section>
+                    <h3>Loading Your Child's Documents</h3>
+                    <p>Click the <strong>"Documents"</strong> button to load your child's IEP, evaluations, or other records. This lets the assistant give you answers specific to your child.</p>
+                    <ul>
+                        <li>Supports <strong>PDF, Word (.docx), and text (.txt)</strong> files</li>
+                        <li>Your documents are processed <strong>entirely in your browser</strong> — they are <strong>never uploaded</strong> to any server</li>
+                        <li>You can load multiple documents at once</li>
+                        <li>Documents stay loaded until you close the browser tab</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3>Your Privacy</h3>
+                    <ul>
+                        <li><strong>Your documents never leave your device.</strong> They are read and processed entirely in your browser.</li>
+                        <li><strong>Your questions</strong> are sent to Groq's AI service (using your personal API key) to generate answers. Groq does not use your inputs for training.</li>
+                        <li><strong>No data is collected</strong> by Thrive Advocacy Group through this tool.</li>
+                        <li><strong>No account is needed.</strong> Your settings are saved in your browser's local storage.</li>
+                        <li>To clear all saved data, go to Settings and clear your browser's site data.</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3>Important Disclaimer</h3>
+                    <p>This tool provides <strong>information about special education law</strong> — it does <strong>not</strong> provide legal advice. The information is for educational purposes to help you understand your rights.</p>
+                    <p>For complex situations, please consider:</p>
+                    <ul>
+                        <li>Hiring a <strong>special education advocate</strong> — visit <a href="https://www.thriveadvocacygroup.com" target="_blank">Thrive Advocacy Group</a></li>
+                        <li>Consulting a <strong>special education attorney</strong></li>
+                        <li>Contacting your state's <strong>Parent Training and Information Center (PTI)</strong></li>
+                        <li>Filing a complaint with the <strong>Texas Education Agency (TEA)</strong></li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3>Troubleshooting</h3>
+                    <ul>
+                        <li><strong>"Thinking..." stays forever:</strong> Check your internet connection. If it persists, your API key may have expired — get a new one from <a href="https://console.groq.com/keys" target="_blank">console.groq.com</a>.</li>
+                        <li><strong>Transcription not working:</strong> Make sure you're using Chrome or Edge. Click the lock icon in the address bar and make sure Microphone is set to "Allow."</li>
+                        <li><strong>"Rate limited" message:</strong> You've asked many questions quickly. Wait 60 seconds and try again. (Free tier allows 30 questions per minute.)</li>
+                        <li><strong>Documents won't load:</strong> Make sure the file is a PDF, .docx, or .txt file. Scanned PDFs (images of documents) may not work — try the Word version if you have one.</li>
+                    </ul>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
